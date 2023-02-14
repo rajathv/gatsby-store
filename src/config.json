@@ -1,10 +1,8 @@
 {
   "currencyList": [
-    { "value": "AUS", "label": "Australia (AUS $)" },
-    { "value": "CAD", "label": "Canada (CAD $)" },
-    { "value": "USD", "label": "United States (US $)" },
-    { "value": "EUR", "label": "Germany (EUR €)" },
-    { "value": "HKD", "label": "Hong Kong (HKD $)" }
+    { "value": "INR", "label": "India (INR ₹)" },
+    { "value": "USD", "label": "United States (US $)" }
+
   ],
   "languageList": [
     { "value": "english", "label": "English" },
